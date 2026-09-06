@@ -1,0 +1,5 @@
+# Personal/editor-local only
+.vscode/settings.json
+docs/
+.idea/
+.env
